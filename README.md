@@ -7,6 +7,10 @@ There are no core files alterations made and the install and uninstall procedure
 
 It may needs some css alterations to fit the needs of your template.
 
+Download
+--------
+Latest version can be also found [here](http://www.zen-cart.com/downloads.php?do=file&id=1343)
+
 Installation
 --------
 
