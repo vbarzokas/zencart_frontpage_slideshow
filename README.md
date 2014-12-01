@@ -42,15 +42,16 @@ Removing previous versions
 --------
 If you are already using a previous version of Frontpage Slideshow you have to uninstall it first by removing all corresponding files 
 To uninstall the prior version, remove the files: 
-	includes/templates/YOUR_TEMPLATE/jscript/jscript_easySlider.js
-	includes/templates/YOUR_TEMPLATE/jscript/jscript_1.7.1_jquery.js
-	includes/templates/YOUR_TEMPLATE/css/stylesheet_slider.css
-	includes/templates/YOUR_TEMPLATE/images/slideshow/price_bg.png
-	includes/extra_datafiles/slideshow.php
-	admin/slideshow.php
-	admin/includes/extra_datafiles/slideshow.php
-	admin/includes/functions/extra_functions/slideshow.php
-	admin/includes/boxes/extra_boxes/slideshow_tools_dhtml.php
+
+>includes/templates/YOUR_TEMPLATE/jscript/jscript_easySlider.js
+>includes/templates/YOUR_TEMPLATE/jscript/jscript_1.7.1_jquery.js
+>includes/templates/YOUR_TEMPLATE/css/stylesheet_slider.css
+>includes/templates/YOUR_TEMPLATE/images/slideshow/price_bg.png
+>includes/extra_datafiles/slideshow.php
+>admin/slideshow.php
+>admin/includes/extra_datafiles/slideshow.php
+>admin/includes/functions/extra_functions/slideshow.php
+>admin/includes/boxes/extra_boxes/slideshow_tools_dhtml.php
 
 (note that the last file will not exist in a 1.5.x installation and the second last file will not exist in a 1.3.x installation.)
 
