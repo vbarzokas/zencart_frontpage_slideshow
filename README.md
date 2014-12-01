@@ -26,13 +26,13 @@ Installation
 
 To administer slideshow
 ----------
-go to >Admin->Tools->Slideshow 
+>Admin->Tools->Slideshow 
 
 From here you can insert/edit/delete your slideshow images and their prices.
 
 *Configuring slideshow parameters:*
 
-go to >Admin->Configuration->Frontpage Slideshow
+>Admin->Configuration->Frontpage Slideshow
 
 From here you can enable the slideshow and set parameters such as speed and effect.
 
