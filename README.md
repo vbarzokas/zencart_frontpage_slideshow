@@ -58,6 +58,7 @@ To uninstall the prior version, remove the files:
 Also remove from this file any references to Frontpage Slideshow and leave only any modifications that you may have done.
 It will probably be from line 1 to line 97.
 >includes/languages/YOUR_LANGUAGE/html_includes/YOUR_TEMPLATE/define_main_page.php
+
 (you could also completely delete this file, but it will no longer be accessible for editing via admin->define pages)
 
 then perform the following database commands in Admin->Tools->Install SQL Patches: 
