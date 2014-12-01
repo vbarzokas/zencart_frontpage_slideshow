@@ -26,11 +26,14 @@ Installation
 
 To administer slideshow
 ----------
-go to Admin->Tools->Slideshow and insert/edit/delete your slideshow images and their prices
+go to Admin->Tools->Slideshow 
+
+From here you can insert/edit/delete your slideshow images and their prices.
 
 Configuring slideshow parameters:
-	Admin->Configuration->Frontpage Slideshow
-	From here you can enable the slideshow and set parameters such as speed and effect.
+go to Admin->Configuration->Frontpage Slideshow
+
+From here you can enable the slideshow and set parameters such as speed and effect.
 
 If you want a currency sign displayed after the price,simply add it on the price (eg 100€)
 
